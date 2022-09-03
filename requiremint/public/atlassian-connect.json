@@ -1,4 +1,4 @@
-  {
+{
      "name": "Hello World",
      "description": "Atlassian Connect app",
      "key": "com.example.myapp",
@@ -23,4 +23,4 @@
              }
          ]
      }
-}a
+}
